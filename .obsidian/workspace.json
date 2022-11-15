@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.环境构建/二进制分发.nuitka/nuikta.命令參考/nuitka.基本命令.md",
-                "mode": "preview",
+                "file": "03.标准库/Object/Object.keys.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -103,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03.标准库/Object/Object.keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03.标准库/Object/Object.keys.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "03.标准库/Object/Object.keys.md"
+              }
             }
           },
           {
@@ -164,6 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "03.标准库/Object/Object.keys.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,7 +202,7 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "db57323f3368669f",
+  "active": "2687e3662cba73b2",
   "lastOpenFiles": [
     "01.环境构建/二进制分发.nuitka/nuikta.命令參考/nuitka.基本命令.md",
     "01.环境构建/环境管理.poetry/poetry.环境安装.md",

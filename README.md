@@ -1,0 +1,3 @@
+# jsobnotes
+
+javascript notes.

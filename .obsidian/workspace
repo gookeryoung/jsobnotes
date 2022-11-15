@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "026f317c46de55ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "2687e3662cba73b2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01.环境构建/环境管理.virtualenv/virtualenvwrapper.基本使用.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbce746b55e5d63d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2cd84ef28df8e07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cf416efd20a3145",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "41871b6bcdf265bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9226d01f1f7a207b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "db57323f3368669f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 405
+  },
+  "right": {
+    "id": "af859b4803d477df",
+    "type": "split",
+    "children": [
+      {
+        "id": "73bb1307ccc660c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a501b4cbb9a6b05a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01.环境构建/环境管理.virtualenv/virtualenvwrapper.基本使用.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c362cd5eb43860e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01.环境构建/环境管理.virtualenv/virtualenvwrapper.基本使用.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c98b5a801e14d1a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "083e9ca6574f7ea0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01.环境构建/环境管理.virtualenv/virtualenvwrapper.基本使用.md"
+              }
+            }
+          },
+          {
+            "id": "a5953d64274e0266",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "8eaa5b8d0166c74c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b4213247cff8d42",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "01.环境构建/环境管理.virtualenv/virtualenvwrapper.基本使用.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6024013357398964,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "active": "2687e3662cba73b2",
+  "lastOpenFiles": [
+    "06.操作系统/windows/windows.cmd/进程管理/进程管理.终止进程.md",
+    "01.环境构建/环境管理.virtualenv/virtualenvwrapper.基本使用.md",
+    "01.环境构建/包管理.pip/pip.设置国内源.md",
+    "02.基本概念/python.typehints/python.类型提示.md",
+    "02.基本概念/python.typehints/typing/typing.Iterable.md",
+    "02.基本概念/python.typehints/typing/typing.Union.md",
+    "02.基本概念/python.typehints/typing/typing.TypeVar.md",
+    "02.基本概念/python.typehints/typing/typing.Sequence.md",
+    "03.标准库/operator/operator.attrgetter.md",
+    "01.环境构建/环境管理.poetry/poetry.基本使用.md"
+  ]
+}

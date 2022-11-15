@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "functools.partial",
+      "path": "03_标准库/functools/functools.partial.md"
+    },
+    {
+      "type": "file",
+      "title": "operator.methodcaller",
+      "path": "03_标准库/operator/operator.methodcaller.md"
+    }
+  ]
+}

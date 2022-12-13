@@ -30,3 +30,4 @@ node_modules
 
 .obsidian/workspace.json
 SyncToy*.dat
+.idea

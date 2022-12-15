@@ -1,9 +1,9 @@
 ---
-aliases: String
+aliases:
 tags: 
 title: ts.对象.String
 date created: 星期二, 十二月 13日 2022, 10:33:37 晚上
-date modified: 星期二, 十二月 13日 2022, 10:52:41 晚上
+date modified: 星期四, 十二月 15日 2022, 9:51:44 晚上
 ---
 
 # ts.对象.String

@@ -25,9 +25,6 @@ y = null; // pass
 
 let a: never;
 let b: number;
-a = (() => {
-    throw new Error('exception')
-})(); // pass
 // a = 123; // error, type 'number' is not assignable to type 'never'.
 
 // pass
@@ -58,3 +55,32 @@ let manager: ManagementEmployee = {
     name: 'Jack',
     stockPlan: true
 };
+
+// 创建一个字面量类型
+type testResult = "pass" | "fail" | "incomplete";
+let myResult: testResult;
+myResult = 'pass'; // pass
+myResult = 'fail'; // pass
+// myResult = 'failure'; // error, Type '"failure"' is not assignable to type 'testResult'.
+
+// 数字字面量
+type dice = 1 | 2 | 3 | 4 | 5 | 6;
+let diceRoll: dice;
+diceRoll = 1; // pass
+// diceRoll = 7; // error
+
+// 类型[]数组
+let numbers: number[] = [1, 2, 3];  // pass
+//numbers = ['a', 'b', 'c']; // error
+let strings: string[] = 'Hello, Jack!'.split(' '); // pass
+
+// Array<type> 数组
+let list: Array<number> = [1, 2, 3]; // pass
+let words: Array<string> = ['a', 'b']; // pass
+console.log(words[1]);
+
+// 元组
+let student: [string, number, boolean] = ['mike', 35, true]; // pass
+// student = ['jack', 35, false, 1]; // error
+// student = ['jack', 35]; error
+

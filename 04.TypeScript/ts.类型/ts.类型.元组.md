@@ -1,9 +1,9 @@
 ---
-aliases: 
+aliases: 元组, tuple
 tags: 
 title: ts.类型.元组
 date created: 星期四, 十二月 15日 2022, 9:05:36 晚上
-date modified: 星期四, 十二月 15日 2022, 9:11:25 晚上
+date modified: 星期四, 十二月 15日 2022, 9:48:05 晚上
 ---
 
 # ts.类型.元组

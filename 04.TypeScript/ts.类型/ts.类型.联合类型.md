@@ -1,9 +1,9 @@
 ---
-aliases: 
+aliases: 联合类型
 tags: 
 title: ts.类型.联合类型
 date created: 星期四, 十二月 15日 2022, 7:47:34 晚上
-date modified: 星期四, 十二月 15日 2022, 7:52:32 晚上
+date modified: 星期四, 十二月 15日 2022, 9:47:32 晚上
 ---
 
 # ts.类型.联合类型

@@ -1,9 +1,9 @@
 ---
-aliases: 
+aliases: 数组, array
 tags: 
 title: ts.类型.数组
 date created: 星期四, 十二月 15日 2022, 8:58:30 晚上
-date modified: 星期四, 十二月 15日 2022, 9:04:06 晚上
+date modified: 星期四, 十二月 15日 2022, 9:48:15 晚上
 ---
 
 # ts.类型.数组

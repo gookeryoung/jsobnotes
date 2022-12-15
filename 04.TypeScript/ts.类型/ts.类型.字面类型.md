@@ -1,9 +1,9 @@
 ---
-aliases: 
+aliases:
 tags: 
 title: ts.类型.字面类型
 date created: 星期四, 十二月 15日 2022, 8:47:40 晚上
-date modified: 星期四, 十二月 15日 2022, 8:58:00 晚上
+date modified: 星期四, 十二月 15日 2022, 9:47:59 晚上
 ---
 
 # ts.类型.字面类型

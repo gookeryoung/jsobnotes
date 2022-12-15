@@ -84,3 +84,25 @@ let student: [string, number, boolean] = ['mike', 35, true]; // pass
 // student = ['jack', 35, false, 1]; // error
 // student = ['jack', 35]; error
 
+// 类型别名
+type N = number;
+type NS = number | string;
+let n: N = 1230;
+let ns1: NS = '123';
+let ns2: NS = 123;
+
+type Student = {
+    name: string;
+    age: number;
+};
+
+type Membership = {
+    style?: 'a' | 'b' | 'c';
+};
+
+type MS = Student & Membership;
+let ms: MS = {
+    name: 'jack',
+    age: 15,
+    style: 'a',
+}

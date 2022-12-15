@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: String
 tags: 
 title: ts.对象.String
 date created: 星期二, 十二月 13日 2022, 10:33:37 晚上

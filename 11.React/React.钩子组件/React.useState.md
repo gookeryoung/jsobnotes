@@ -1,12 +1,12 @@
 ---
 aliases: 
 tags: 
-title: ts.React.useState
+title: React.useState
 date created: 星期六, 十二月 17日 2022, 2:10:42 下午
-date modified: 星期六, 十二月 17日 2022, 2:13:46 下午
+date modified: 星期五, 三月 31日 2023, 10:19:31 晚上
 ---
 
-# ts.React.useState
+# React.useState
 
 在 React 源码中，useState 有两个函数。第一个方法接一个名为 S 的 TypeScript 泛型，通过它，我们可以定义 state 的变量类型。第二个函数重写（override）了第一个函数，使我们可以在调用 useState 时不直接声明 state 变量类型。
 

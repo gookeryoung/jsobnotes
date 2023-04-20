@@ -4,5 +4,6 @@ interface StringArray {
 
 let arr: StringArray;
 arr = ['Bob', 'Fred'];
-let myStr = arr[0];
-console.log(myStr);
+let s1 = arr[0];
+let s2 = arr['0'];
+console.log(s1, s2);
